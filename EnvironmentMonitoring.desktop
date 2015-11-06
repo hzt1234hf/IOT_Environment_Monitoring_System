@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name[cn]=物联网环境监测
+Name=EnvironmentMonitoring
+Comment=Programming Tool  
+Exec=gksu /home/ziteng/桌面/Qt_Project/HeLiBei_Server/build-MainWindow-QT_4_8_6桌面-Release/MainWindow
+Terminal=false  
+Type=Application  
+Icon=/home/ziteng/桌面/Qt_Project/HeLiBei_Server/1.ico
+Categories=Development;  
